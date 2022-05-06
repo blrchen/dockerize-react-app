@@ -1,6 +1,6 @@
-# react-dockerfile
+# Dockerize React App
 
-This repo shows how to create dockerfile for react application, using a hello world react app created with [create-react-app](https://create-react-app.dev/) as sample.
+This repo shows how to dockerize react application, using a hello world sample created with [create-react-app](https://create-react-app.dev/).
 
 ## Prerequisites
 
